@@ -1,0 +1,10 @@
+{
+  "name": "repro-stylelint-hpa-crash",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "stylelint": "10.0.1",
+    "stylelint-high-performance-animation": "1.2.0"
+  }
+}

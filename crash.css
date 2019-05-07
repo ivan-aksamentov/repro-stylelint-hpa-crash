@@ -1,0 +1,7 @@
+:root {
+  --sidebar-transition: all 0.3s ease;
+}
+
+.example {
+  transition: var(--sidebar-transition);
+}
