@@ -16,8 +16,10 @@ Reproduces a crash in [kristerkari/stylelint-high-performance-animation](https:/
 ## How to reproduce
 ```bash
 git clone https://github.com/ivan-aksamentov/repro-stylelint-hpa-crash
+cd repro-stylelint-hpa-crash
 yarn install
 stylelint crash.css
+
 
 ```
 
